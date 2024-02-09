@@ -1,9 +1,9 @@
-a=6
-b=7
+
+
 print('1.ADD ,2.SUB , 3.MUL, 4.DIV')
 choice=int(input("Enter Your Choice 1 ,2 ,3 ,4 "))
-#a = int(input('Enter First number: '))
-#b = int(input('Enter Second number '))
+a = int(input('Enter First number: '))
+b = int(input('Enter Second number '))
 
 if choice== 1: 
     sum= a+b
